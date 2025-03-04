@@ -1,0 +1,7 @@
+C:\Users\Travis\Desktop\ImgToByteArray\Publish\ImgToByteArray.pdb
+C:\Users\Travis\Desktop\ImgToByteArray\Publish\D3DCompiler_47_cor3.dll
+C:\Users\Travis\Desktop\ImgToByteArray\Publish\PenImc_cor3.dll
+C:\Users\Travis\Desktop\ImgToByteArray\Publish\PresentationNative_cor3.dll
+C:\Users\Travis\Desktop\ImgToByteArray\Publish\vcruntime140_cor3.dll
+C:\Users\Travis\Desktop\ImgToByteArray\Publish\wpfgfx_cor3.dll
+C:\Users\Travis\Desktop\ImgToByteArray\Publish\ImgToByteArray.exe

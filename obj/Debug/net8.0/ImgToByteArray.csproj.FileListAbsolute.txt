@@ -1,0 +1,14 @@
+C:\Users\travis.fahey\source\repos\ImgToByteArray\ImgToByteArray\bin\Debug\net8.0\ImgToByteArray.exe
+C:\Users\travis.fahey\source\repos\ImgToByteArray\ImgToByteArray\bin\Debug\net8.0\ImgToByteArray.deps.json
+C:\Users\travis.fahey\source\repos\ImgToByteArray\ImgToByteArray\bin\Debug\net8.0\ImgToByteArray.runtimeconfig.json
+C:\Users\travis.fahey\source\repos\ImgToByteArray\ImgToByteArray\bin\Debug\net8.0\ImgToByteArray.dll
+C:\Users\travis.fahey\source\repos\ImgToByteArray\ImgToByteArray\bin\Debug\net8.0\ImgToByteArray.pdb
+C:\Users\travis.fahey\source\repos\ImgToByteArray\ImgToByteArray\obj\Debug\net8.0\ImgToByteArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\travis.fahey\source\repos\ImgToByteArray\ImgToByteArray\obj\Debug\net8.0\ImgToByteArray.AssemblyInfoInputs.cache
+C:\Users\travis.fahey\source\repos\ImgToByteArray\ImgToByteArray\obj\Debug\net8.0\ImgToByteArray.AssemblyInfo.cs
+C:\Users\travis.fahey\source\repos\ImgToByteArray\ImgToByteArray\obj\Debug\net8.0\ImgToByteArray.csproj.CoreCompileInputs.cache
+C:\Users\travis.fahey\source\repos\ImgToByteArray\ImgToByteArray\obj\Debug\net8.0\ImgToByteArray.dll
+C:\Users\travis.fahey\source\repos\ImgToByteArray\ImgToByteArray\obj\Debug\net8.0\refint\ImgToByteArray.dll
+C:\Users\travis.fahey\source\repos\ImgToByteArray\ImgToByteArray\obj\Debug\net8.0\ImgToByteArray.pdb
+C:\Users\travis.fahey\source\repos\ImgToByteArray\ImgToByteArray\obj\Debug\net8.0\ImgToByteArray.genruntimeconfig.cache
+C:\Users\travis.fahey\source\repos\ImgToByteArray\ImgToByteArray\obj\Debug\net8.0\ref\ImgToByteArray.dll

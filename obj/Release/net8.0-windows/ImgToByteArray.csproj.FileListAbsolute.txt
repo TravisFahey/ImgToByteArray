@@ -1,0 +1,14 @@
+C:\Users\Travis\Desktop\ImgToByteArray\ImgToByteArray\bin\Release\net8.0-windows\ImgToByteArray.exe
+C:\Users\Travis\Desktop\ImgToByteArray\ImgToByteArray\bin\Release\net8.0-windows\ImgToByteArray.deps.json
+C:\Users\Travis\Desktop\ImgToByteArray\ImgToByteArray\bin\Release\net8.0-windows\ImgToByteArray.runtimeconfig.json
+C:\Users\Travis\Desktop\ImgToByteArray\ImgToByteArray\bin\Release\net8.0-windows\ImgToByteArray.dll
+C:\Users\Travis\Desktop\ImgToByteArray\ImgToByteArray\bin\Release\net8.0-windows\ImgToByteArray.pdb
+C:\Users\Travis\Desktop\ImgToByteArray\ImgToByteArray\obj\Release\net8.0-windows\ImgToByteArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Travis\Desktop\ImgToByteArray\ImgToByteArray\obj\Release\net8.0-windows\ImgToByteArray.AssemblyInfoInputs.cache
+C:\Users\Travis\Desktop\ImgToByteArray\ImgToByteArray\obj\Release\net8.0-windows\ImgToByteArray.AssemblyInfo.cs
+C:\Users\Travis\Desktop\ImgToByteArray\ImgToByteArray\obj\Release\net8.0-windows\ImgToByteArray.csproj.CoreCompileInputs.cache
+C:\Users\Travis\Desktop\ImgToByteArray\ImgToByteArray\obj\Release\net8.0-windows\ImgToByteArray.dll
+C:\Users\Travis\Desktop\ImgToByteArray\ImgToByteArray\obj\Release\net8.0-windows\refint\ImgToByteArray.dll
+C:\Users\Travis\Desktop\ImgToByteArray\ImgToByteArray\obj\Release\net8.0-windows\ImgToByteArray.pdb
+C:\Users\Travis\Desktop\ImgToByteArray\ImgToByteArray\obj\Release\net8.0-windows\ImgToByteArray.genruntimeconfig.cache
+C:\Users\Travis\Desktop\ImgToByteArray\ImgToByteArray\obj\Release\net8.0-windows\ref\ImgToByteArray.dll
